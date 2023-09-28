@@ -6,6 +6,7 @@ public class GitbashPractice1 {
 		
 		System.out.println("Hy I'm Gitbash");
 		System.out.println("Pulling changes to Eclipse");
+		System.out.println("Changing branch focus");
 	}
 
 }
